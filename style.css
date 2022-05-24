@@ -1,0 +1,16 @@
+.container h1 {
+    border-bottom-style: solid;
+    border-width: 1px;
+    border-color: #EEEEEE;
+}
+
+.div, table {
+    font-family: sans-serif;
+    color: #232323;
+    border-collapse: collapse;
+}
+ 
+.div, th, td {
+    border: 1px solid #999;
+    padding: 8px 20px;
+}
